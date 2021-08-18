@@ -1,0 +1,38 @@
+{"basball_team_info" : [
+  {
+    "name" : "Giants",
+    "win" : 67,
+    "lose" : 45,
+    "draw" : 8
+  },
+  {
+    "name" : "Tigers",
+    "win" : 60,
+    "lose" : 53,
+    "draw" : 7
+  },
+  {
+    "name" : "Dragons",
+    "win" : 60,
+    "lose" : 55,
+    "draw" : 5
+  },
+  {
+    "name" : "BeyStars",
+    "win" : 56,
+    "lose" : 58,
+    "draw" : 6
+  },
+  {
+    "name" : "Carp",
+    "win" : 52,
+    "lose" : 56,
+    "draw" : 12
+  },
+  {
+    "name" : "Swallows",
+    "win" : 41,
+    "lose" : 69,
+    "draw" : 10
+  }
+]}
